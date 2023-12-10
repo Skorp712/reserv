@@ -6,8 +6,8 @@
 На проверку направить скриншот с командой и результатом ее выполнения
 
 ![alt text](https://github.com/Skorp712/reserv/blob/main/1.png)
-![alt text](https://github.com/Skorp712/reserv/blob/main/1.png)
-![alt text](https://github.com/Skorp712/reserv/blob/main/1.png)
+![alt text](https://github.com/Skorp712/reserv/blob/main/2.png)
+![alt text](https://github.com/Skorp712/reserv/blob/main/3.png)
 
 
 Задание 2
@@ -18,6 +18,6 @@
 Резервная копия размещается локально, в директории /tmp/backup
 На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
-![alt text](https://github.com/Skorp712/reserv/blob/main/1.png)
-![alt text](https://github.com/Skorp712/reserv/blob/main/1.png)
-![alt text](https://github.com/Skorp712/reserv/blob/main/1.png)
+![alt text](https://github.com/Skorp712/reserv/blob/main/11.png)
+![alt text](https://github.com/Skorp712/reserv/blob/main/12.png)
+![alt text](https://github.com/Skorp712/reserv/blob/main/13.png)
