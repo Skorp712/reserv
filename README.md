@@ -18,6 +18,8 @@
 Резервная копия размещается локально, в директории /tmp/backup
 На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
+На моей рабочей машине очень объемная домашняя директория и поэтому я ограничелся директорией /home/alex/Documents думаю она тоже отображает ход работы скрипта.
+
 ![alt text](https://github.com/Skorp712/reserv/blob/main/11.png)
 ![alt text](https://github.com/Skorp712/reserv/blob/main/12.png)
 ![alt text](https://github.com/Skorp712/reserv/blob/main/13.png)
